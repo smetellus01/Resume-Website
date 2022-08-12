@@ -1,2 +1,3 @@
 # Resume-Website
-Resume Website for Sebastian M.
+
+Note: Currently being worked on throughout the summer!
