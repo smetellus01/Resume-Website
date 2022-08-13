@@ -1,6 +1,7 @@
 <template>
 
 <div>
+
     <h1 class="header">Sebastian Metellus</h1>
     
     <h4 class="sub-header" style ="padding-bottom: 8px;">Full Stack Developer | Graphic Designer | Ultimate Frisbee Player</h4>
@@ -60,7 +61,7 @@
 .sub-header{
     color: grey;
     font-family: "MS Sans Serif";
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .paragraph
@@ -69,12 +70,12 @@
 }
 
 .body-content {
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 .location{
     color: grey;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .header{

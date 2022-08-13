@@ -41,8 +41,9 @@ import Navbar from './components/windows/Navbar'
 import Window from './components/template/Window'
 import EmailWindow from './components/template/EmailWindow'
 import AppGrid from './components/AppGrid'
-import Biography from './components/views/Biography'
+import Biography from './components/template/Biography'
 import Photos from './components/views/Photos'
+import Projects from './components/views/Projects'
 export default {
     name: 'App',
     data: function () {
@@ -58,6 +59,7 @@ export default {
         Biography,
         EmailWindow,
         Photos,
+        Projects,
         // TopNavbar,
     },
     computed: {
@@ -124,6 +126,7 @@ export default {
 
 @font-face {
     font-family: "MS Sans Serif";
+    font-weight: 600;
     src: url('~@/assets/fonts/MS-Sans-Serif.ttf');
 }
 

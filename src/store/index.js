@@ -31,7 +31,7 @@ export default new Vuex.Store({
           left: null
         }, // Window Content Padding 
         position: "absolute", // Window Position
-        positionX: "10vw", // Window Position X (when first opened)
+        positionX: "30vw", // Window Position X (when first opened)
         positionY: "15vh", // Window Position Y (when first opened)
         iconImage: "bio.png", // Window Icon Image
         altText: "Biography-Icon", // Window Icon Alt Text
@@ -52,14 +52,14 @@ export default new Vuex.Store({
         position: "absolute",
         positionX: "6vw",
         positionY: "12vh",
-        iconImage: "placeholder.png",
+        iconImage: "resume.png",
         altText: "Placeholder Icon",
         fullscreen: false
       },
       {
         windowId: "EmailWindow", 
           windowState: "close",
-          displayName: "Email Window",
+          displayName: "Email",
           windowComponent: 'EmailWindow',
           windowContent: 'Placeholder',
           windowContentPadding: {
@@ -69,12 +69,31 @@ export default new Vuex.Store({
             left: null
           },
           position: "absolute",
-          positionX: "6vw",
-          positionY: "12vh",
-          iconImage: "placeholder.png",
-          altText: "Placeholder Icon",
+          positionX: "10vw",
+          positionY: "10vh",
+          iconImage: "mail.png",
+          altText: "Webos Icon",
           fullscreen: false
       },
+    {
+     windowId: "Projects", 
+     windowState: "close",
+     displayName: "Projects",
+     windowComponent: 'window',
+     windowContent: 'Projects',
+     windowContentPadding: {
+         top: null,
+         right: null,
+         bottom: null,
+         left: null
+     },
+     position: "absolute",
+     positionX: "20vw",
+     positionY: "20vh",
+     iconImage: "webos.png",
+     altText: "Mail Icon",
+     fullscreen: false
+    },
       // register your new windows here
     ],
   },
