@@ -25,7 +25,7 @@
 $ cd npm install
 ```
 
-4. Serve project
+3. Serve project
 
 ```bash
 $ npm run serve
