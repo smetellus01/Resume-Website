@@ -19,6 +19,8 @@
 
 <div class="body-content">
     <h2 class="heading"><b>About</b></h2>
+
+    <hr>
     
     <p class="paragraph">Hello! I am Sebastian from Pembroke Pines and I am an 20 year old student who's passionate in both
         programming and graphic design. I am currently a Computer Science student at Florida State University.</p><br>
@@ -33,8 +35,10 @@
 
 <div class="body-content">
     <h2 class="heading"><b>Work Experience</b></h2>
+
+    <hr>
     
-    <p class="paragraph">I have completed two internship opportunities so far. My first internship was at Takeoff Institute, a fellowship research program for Black undergraduate
+    <p class="paragraph">I have completed two internship opportunities so far. My first internship was at Takeoff Institute, a fellowship research program for black undergraduate
         students. The second internship was at KPMG US LLP where I rotated through various Engineeering / IT teams in the firm.</p><br>
     
     <p class="paragraph">Throughout these experiences, I worked with Python, Alteryx, and KPMG Clara. For my first internship, I created a case analysis on the importance of financial literacy in underrepresented communities. 
@@ -44,8 +48,11 @@
     </div>
 
     <div class="body-content">
-        <h3 class="heading"><b>Resume</b></h3>
-        <a style="color: #FF5733;" href="/files/Metellus, Sebastian - Resume.pdf" target="_blank" class="paragraph">Check out my resume.</a>
+        <h2 class="heading"><b>Resume</b></h2>
+
+        <hr>
+
+        <a style="color: #0000FF;" href="/files/Metellus, Sebastian - Resume.pdf" target="_blank" class="paragraph">Check out my resume.</a>
     </div>
 
 </div>

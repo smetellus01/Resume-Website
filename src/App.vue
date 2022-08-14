@@ -44,6 +44,8 @@ import AppGrid from './components/AppGrid'
 import Biography from './components/template/Biography'
 import Photos from './components/views/Photos'
 import Projects from './components/views/Projects'
+import Contacts from './components/views/Contacts'
+
 export default {
     name: 'App',
     data: function () {
@@ -60,6 +62,7 @@ export default {
         EmailWindow,
         Photos,
         Projects,
+        Contacts,
         // TopNavbar,
     },
     computed: {
@@ -126,7 +129,15 @@ export default {
 
 @font-face {
     font-family: "MS Sans Serif";
-    font-weight: 600;
+    font-weight: 400;
+    font-style: normal;
+    src: url('~@/assets/fonts/MS-Sans-Serif.ttf');
+}
+
+@font-face {
+    font-family: "MS Sans Serif";
+    font-weight: bold;
+    font-style: normal;
     src: url('~@/assets/fonts/MS-Sans-Serif.ttf');
 }
 

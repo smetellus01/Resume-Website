@@ -19,8 +19,8 @@ export default new Vuex.Store({
 
     windows: [
       {
-        windowId: "Biography", // Unique ID
-        windowState: "close", // Window State [open, close, minimize]
+        windowId: "BiographyWindow", // Unique ID
+        windowState: "open", // Window State [open, close, minimize]
         displayName: "Biography", // Display Name (title under icon)
         windowComponent: 'window', // Window Component (can be changed to use modified windows)
         windowContent: 'Biography', // Window Content (used under slots)
@@ -39,7 +39,7 @@ export default new Vuex.Store({
       },
       {
         windowId: "PhotoWindow", 
-        windowState: "close",
+        windowState: "minimize",
         displayName: "Photos",
         windowComponent: 'window',
         windowContent: 'Photos',
@@ -92,9 +92,28 @@ export default new Vuex.Store({
      positionY: "20vh",
      iconImage: "webos.png",
      altText: "Mail Icon",
+     fullscreen: true
+    },
+    {
+     windowId: "Contacts", 
+     windowState: "close",
+     displayName: "Contacts",
+     windowComponent: 'window',
+     windowContent: 'Contacts',
+     windowContentPadding: {
+         top: null,
+         right: null,
+         bottom: null,
+         left: null
+     },
+     position: "absolute",
+     positionX: "20vw",
+     positionY: "20vh",
+     iconImage: "opensource.png",
+     altText: "Contacts Icon",
      fullscreen: false
     },
-      // register your new windows here
+    // register your new windows here
     ],
   },
   mutations: {

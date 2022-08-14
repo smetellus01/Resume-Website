@@ -1,4 +1,9 @@
-# Project: Website Portfolio
+# [Windows 95 Portfolio](https://github.com/smetellus01/Resume-Website)
+
+<img width="1440" alt="ScreenShot" src= https://user-images.githubusercontent.com/65518883/184556858-dead490e-6684-4097-8577-0ac70b19150d.png>
+
+<b>NOTE: I'm currently working on this project throughout the summer.</b>
+
 ## Framework and Libraries
 <ul>
   <li>HTML5</li>
@@ -10,6 +15,7 @@
 ## Features
 - Interactable and Draggable Windows
 - Built-in Navigation Bar (+ logic)
+- Built-in Clock
 - Window Logic (States, Fullscreen, Minimization etc.)
 
 
@@ -25,8 +31,9 @@
 $ cd npm install
 ```
 
-4. Serve project
+3. Serve project
 
 ```bash
 $ npm run serve
 ```
+
