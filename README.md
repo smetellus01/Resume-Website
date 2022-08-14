@@ -33,8 +33,3 @@ $ cd npm install
 $ npm run serve
 ```
 
-
-
----
-permalink: /index.html
----
