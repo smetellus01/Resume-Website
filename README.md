@@ -15,6 +15,7 @@
 ## Features
 - Interactable and Draggable Windows
 - Built-in Navigation Bar (+ logic)
+- Built-in Clock
 - Window Logic (States, Fullscreen, Minimization etc.)
 
 
