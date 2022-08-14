@@ -1,4 +1,6 @@
 # Project: Website Portfolio
+## Progress
+<b>NOTE: I'm currently working on this project throughout the summer.</b>
 ## Framework and Libraries
 <ul>
   <li>HTML5</li>
