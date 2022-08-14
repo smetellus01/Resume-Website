@@ -1,6 +1,6 @@
-# Project: Website Portfolio
+# [Windows 95 Portfolio](https://github.com/smetellus01/Resume-Website)
 
-<img width="1440" alt="Screenshot 2021-12-14 at 2 26 33 PM" src="https://user-images.githubusercontent.com/65518883/184549960-f78a1ba0-d6dd-4aff-9b9d-abb74518ec8d.png">
+<img width="1440" alt="ScreenShot" src= https://user-images.githubusercontent.com/65518883/184556858-dead490e-6684-4097-8577-0ac70b19150d.png>
 
 <b>NOTE: I'm currently working on this project throughout the summer.</b>
 
