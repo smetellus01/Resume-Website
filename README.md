@@ -32,3 +32,9 @@ $ cd npm install
 ```bash
 $ npm run serve
 ```
+
+
+
+---
+permalink: /index.html
+---
