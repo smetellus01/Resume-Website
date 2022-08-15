@@ -15,6 +15,16 @@
             the yellow (h) represents vertices far from the goal and teal (g) represents vertices far from the starting point. A* balances the two 
             as it moves from the starting point to the goal. Each time through the main loop, it examines the vertex n that has the lowest f(n) = g(n) + h(n).</p><br>            
     </div>
+
+        <p></p>
+
+        <!-- Repository Links -->
+
+        <div class="body-content">
+        <a style="color: #0000FF;" href="https://github.com/smetellus01/Pathfinder-Visualizer" target="_blank" class="paragraph">Repository</a>
+        <hr>
+        
+        <p></p>
     
     <img class = "project-image-one" src = "@/assets/images/tic-tac.png" />
     <div class="inner-content">
@@ -34,6 +44,16 @@
             <li>3. If the center square is available, the computer will take it.</li>
         </ol>
 
+        <p></p>
+
+        <!-- Repository Links -->
+        
+        <div class="body-content">
+        <a style="color: #0000FF;" href="https://github.com/smetellus01/COP3252/tree/main/Project%203%20-%20Tic%20Tac%20Toe%20Game" target="_blank" class="paragraph">Repository</a>
+        <hr>
+        
+        <p></p>
+
    </div>
     
     <img class = "project-image-one" src = "@/assets/images/project three.png" />
@@ -48,22 +68,17 @@
             The program also supports an interactive playlist menu as shown above, which supports nine user commands.
         </p><br><br>
         
-        <!-- Repositoty Links -->
-    
+        <!-- Repository Links -->
+
         <div class="body-content">
-        <a style="color: #0000FF;" href="https://github.com/smetellus01/Pathfinder-Visualizer" target="_blank" class="paragraph">Pathfinder Repository</a>
-        
-        <div class="body-content">
-        <a style="color: #0000FF;" href="https://github.com/smetellus01/COP3252/tree/main/Project%203%20-%20Tic%20Tac%20Toe%20Game" target="_blank" class="paragraph">Tic-Tac-Toe Repository</a>
-        
-        <div class="body-content">
-        <a style="color: #0000FF;" href="https://github.com/smetellus01/Dynamic-Song-Playlist" target="_blank" class="paragraph">Song Playlist Repository</a>
+        <a style="color: #0000FF;" href="https://github.com/smetellus01/Dynamic-Song-Playlist" target="_blank" class="paragraph">Repository</a>
+        <hr>
     
     </div>
 
     </div>
 
-</div>
+    </div>
 
 </div>
 

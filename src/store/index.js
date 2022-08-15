@@ -96,7 +96,7 @@ export default new Vuex.Store({
     },
     {
      windowId: "Contacts", 
-     windowState: "close",
+     windowState: "open",
      displayName: "Contacts",
      windowComponent: 'window',
      windowContent: 'Contacts',
@@ -107,8 +107,8 @@ export default new Vuex.Store({
          left: null
      },
      position: "absolute",
-     positionX: "20vw",
-     positionY: "20vh",
+     positionX: "70vw",
+     positionY: "5vh",
      iconImage: "opensource.png",
      altText: "Contacts Icon",
      fullscreen: false

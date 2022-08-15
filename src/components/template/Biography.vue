@@ -51,7 +51,6 @@
         <h2 class="heading"><b>Resume</b></h2>
 
         <hr>
-
         <a style="color: #0000FF;" href="/files/Metellus, Sebastian - Resume.pdf" target="_blank" class="paragraph">Check out my resume.</a>
     </div>
 
@@ -68,7 +67,7 @@
 .sub-header{
     color: grey;
     font-family: "MS Sans Serif";
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .paragraph
@@ -82,7 +81,7 @@
 
 .location{
     color: grey;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .header{
